@@ -1,0 +1,36 @@
+
+    "Melee"
+        "Superhuman"
+        "Death Step"
+        "Sharkman Karate"
+      "Electric Claw" 
+        "Dragon Talon"
+        "Godhuman"
+    
+    "Sword"
+        "Saber"
+        "Rengoku"
+       "Canvander"
+        "Buddy Sword"
+        "Yama"
+        "Tushita"
+        "True Triple Katana"
+        "Cursed Dual Katana"
+    
+  "Gun"
+        "Kabucha"
+        "Acidum Rifle"
+        "Serpent Bow"
+    
+    "Mastery"
+        "Sword"
+    
+    "Setting"
+        "Enabled"
+        "Hop Server"
+        "Reduce Lag"
+        "Notifycation Remove"
+        "Hop When Player Nearby"
+            "Enabled"
+            "Radius" = 350
+      
